@@ -1,2 +1,5 @@
 # This is my README file
-This is my first repo in Github
+This is my first repo in GitHub
+
+Testing my first repo for capstone
+2024
